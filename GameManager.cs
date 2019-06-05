@@ -621,7 +621,7 @@ public class GameManager : MonoBehaviour {
 
         DataTurn dataTurn = new DataTurn()
         {
-            turn_number = 2, //EMPIEZA UN JUGADOR ALEATORIO
+            turn_number = 2, //Empieza la IA
             minigame_fails = 0,
             random_seed = 0,
             used_skill = 0,
